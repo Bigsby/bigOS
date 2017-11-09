@@ -13,7 +13,10 @@ An operating System created from scratch.
 
 # v0.0.2
 - Use function to write string
-- 
+![v.0.0.2](/images/bigos-0.0.2.png "v0.0.2")
+
 # v0.0.1
 - Initial version
 - Manually writting message
+
+![v.0.0.1](/images/bigos-0.0.1.png "v0.0.1")
