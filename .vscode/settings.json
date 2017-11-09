@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "**/.git": true,
-        "**/*.bin": true
+        "**/*.bin": true,
+        "**7=.v*": true
     }
 }
